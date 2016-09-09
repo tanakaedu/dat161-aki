@@ -13,12 +13,12 @@
 
 # 今後のテーマ
 1. 夏休みの課題から
-  - ショットを打つ方向
+  - [x] ショットを打つ方向
     - 9/2に作成したスクリプト https://raw.githubusercontent.com/tanakaedu/dat161-aki/master/move.cs
+  - [x] プレイヤーのキー操作(Rigidbody)
   - ノベルゲームエンジン(JOKER SCRIPT)の利用
   - SEとBGM
   - 3D Textでの文字表示
-  - プレイヤーのキー操作(Rigidbody)
   - Unityちゃんの操作(CharacterController)
   - 重力加速度での操作
   - 世界の果ての表現
