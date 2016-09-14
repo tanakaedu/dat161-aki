@@ -1,7 +1,8 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
 # サイト紹介
-- https://skima.jp/
+- イラストオーダーオーダーサービスサービスSKIMA https://skima.jp/
+- IGDAジャパン ゲーム開発者推薦図書リスト(CEDEC2016)版 http://www.igda.jp/?p=4618
 
 # 15回目(9/16)
 ## JOKER SCRIPT
