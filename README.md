@@ -1,12 +1,15 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
 # サイト紹介
-- イラストオーダーオーダーサービスサービスSKIMA https://skima.jp/
-- IGDAジャパン ゲーム開発者推薦図書リスト(CEDEC2016)版 http://www.igda.jp/?p=4618
+- Unityインターハイ2016 https://inter-high.unity3d.jp/
 
 # 15回目(9/16)
 ## 1コマ目 JOKER SCRIPT
 - チュートリアル
+
+### 紹介Webサイト
+- イラストオーダーオーダーサービスサービスSKIMA https://skima.jp/
+- IGDAジャパン ゲーム開発者推薦図書リスト(CEDEC2016)版 http://www.igda.jp/?p=4618
 
 ## 2コメ目
 - 試験(30分)
