@@ -2,6 +2,7 @@
 
 # サイト紹介
 - Unityインターハイ2016 https://inter-high.unity3d.jp/
+- 面白そうなハード Arduboy http://ssci.to/2880
 
 # 15回目(9/16)
 ## 1コマ目 JOKER SCRIPT
