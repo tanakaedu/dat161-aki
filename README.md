@@ -14,6 +14,7 @@
 
 # 後期1回目
 - オプションつくり
+- 効果音→ https://github.com/tanakaedu/dat161-aki/wiki/Unity:%E5%8A%B9%E6%9E%9C%E9%9F%B3
 
 ---
 
