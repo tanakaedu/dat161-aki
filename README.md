@@ -25,8 +25,8 @@
     - 9/2に作成したスクリプト https://raw.githubusercontent.com/tanakaedu/dat161-aki/master/move.cs
   - [x] プレイヤーのキー操作(Rigidbody)
   - [x] ノベルゲームエンジン(JOKER SCRIPT)の利用
+  - [x] SEとBGM https://github.com/tanakaedu/dat161-aki/wiki/Unity:%E5%8A%B9%E6%9E%9C%E9%9F%B3
   - 重力加速度での操作
-  - SEとBGM
   - 3D Textでの文字表示
   - Unityちゃんの操作(CharacterController)
   - 迷路のアセットの当たり判定
