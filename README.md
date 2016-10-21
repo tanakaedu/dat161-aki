@@ -31,11 +31,11 @@
   - [x] プレイヤーのキー操作(Rigidbody)
   - [x] ノベルゲームエンジン(JOKER SCRIPT)の利用
   - [x] SEとBGM https://github.com/tanakaedu/dat161-aki/wiki/Unity:%E5%8A%B9%E6%9E%9C%E9%9F%B3
-  - 重力加速度での操作
-  - 3D Textでの文字表示
-  - Unityちゃんの操作(CharacterController)
-  - 迷路のアセットの当たり判定
+  - [x] 重力加速度での操作
+  - [x] 3D Textでの文字表示
+  - [x] 迷路のアセットの当たり判定
   - 爆発＝パーティクル
+  - Unityちゃんの操作(CharacterController)
   - 当たり判定の変更方法
     - しゃがんだ時に、判定の大きさを変える
     - 配列で当たり判定
