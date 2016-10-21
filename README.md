@@ -2,7 +2,8 @@
 
 
 # 2回目
-- https://github.com/tanakaedu/dat161-aki/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97
+- [パーティクル](https://github.com/tanakaedu/dat161-aki/wiki/%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E3%82%AF%E3%83%AB)
+- [ジャンプ](https://github.com/tanakaedu/dat161-aki/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97)
 
 
 # サイト紹介
