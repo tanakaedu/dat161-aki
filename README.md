@@ -1,5 +1,10 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
+
+# 2回目
+- https://github.com/tanakaedu/dat161-aki/wiki/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97
+
+
 # サイト紹介
 - Unityインターハイ2016 https://inter-high.unity3d.jp/
 - 面白そうなハード Arduboy http://ssci.to/2880
