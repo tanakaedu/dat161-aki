@@ -7,6 +7,12 @@
   - transform.parentに、親オブジェクトのtransformを代入
   - 座標はtransform.localPositionを利用
 - グラフィックの透過
+  - Photoshopなどで、透過度を設定して、psd形式か、png形式で保存して、Unityに読み込む
+  - Quadなどに読み込んだ画像をドラッグ&ドロップして張り付ける
+  - 貼り付けたゲームオブジェクトを選択
+  - [Inspector]ビューから、テクスチャの[Shader]の左のを三角をクリックして開く
+  - [Rendering Mode]の[Opaque]を[Transparent]に切り替え
+  - 以上で画像の透過設定が反映される
 - フォグ
 
 
