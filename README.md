@@ -1,12 +1,12 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
 # 3回目
+- [ショットの作成](https://github.com/tanakaedu/dat161-aki/wiki/%E5%BC%BE%E3%82%92%E6%92%83%E3%81%A4)
 - スクリプトでゲームオブジェクトをに階層する
   - transform.parentに、親オブジェクトのtransformを代入
   - 座標はtransform.localPositionを利用
 - グラフィックの透過
 - フォグ
-- ショットの作成
 
 
 # 2回目
