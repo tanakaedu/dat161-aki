@@ -2,7 +2,7 @@
 
 # 3回目
 - [ショットの作成](https://github.com/tanakaedu/dat161-aki/wiki/%E5%BC%BE%E3%82%92%E6%92%83%E3%81%A4)
-- スクリプトでゲームオブジェクトをに階層する
+- [スクリプトでゲームオブジェクトをに階層する](https://github.com/tanakaedu/dat161-aki/wiki/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%97%E3%83%88%E3%81%A7%E8%A6%AA%E5%AD%90%E9%9A%8E%E5%B1%A4%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
   - transform.parentに、親オブジェクトのtransformを代入
   - 座標はtransform.localPositionを利用
 - グラフィックの透過
