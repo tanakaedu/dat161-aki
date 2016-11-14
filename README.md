@@ -1,5 +1,10 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
+# 5回目
+- http://bylines.news.yahoo.co.jp/yuasamakoto/20161114-00064079/
+- Google翻訳
+- GitHub Pages
+
 # 4回目
 ## 迷路のUnityちゃんのカメラについて
 作業していたPCの kadai-temp フォルダーに調整済みのものを置いておきました。
