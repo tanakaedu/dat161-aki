@@ -24,6 +24,7 @@
 
 ## 小ネタ(時間があれば)
 1. Unityちゃんの操作を改良(CharacterController)
+1. [Unity公式チュートリアル Space Shooterの作成手順](https://github.com/tanakaedu/SpaceShooterTutorial/wiki)
 1. 「ユニティちゃん2Dデータ」で、2Dグラフィックについて学ぶ
 1. 「ユニティちゃん2Dデータ」のデモを改造する
 1. 3Dデータの作り方
