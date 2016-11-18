@@ -8,6 +8,7 @@
 1. 時間が余ったらUI
 
 ## 記事
+- [転職エージェントは、本当にスゴ腕なのか！？──偽エンジニアを見抜けるか試してみた](https://codeiq.jp/magazine/2016/10/45639/)
 - [AIについて](http://bylines.news.yahoo.co.jp/yuasamakoto/20161114-00064079/)
 
 
