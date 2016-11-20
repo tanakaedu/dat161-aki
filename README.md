@@ -1,11 +1,16 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
+# 6回目
+- [モグラゲームス デジゲー博で見つけたおすすめ同人・インディゲーム12選](http://www.moguragames.com/entry/digigame-expo-report/)
+- Webページ作成
+  - GitHub Pages, Atomエディター, HTML, CSS, Bootstrap
+- ドットインストールでの独習-GitHubに作ったものを公開していく
+- 時間が余ったらUI
+
 # 5回目
 1. Google翻訳の紹介
 1. [作品をGitHub Pagesで公開](http://am1tanaka.hatenablog.com/entry/2015/11/27/115926)
   - GitHub Pages, Atomエディター, HTML, CSS, Bootstrap
-1. ドットインストールでの独習-GitHubに作ったものを公開していく
-1. 時間が余ったらUI
 
 ## 記事
 - [転職エージェントは、本当にスゴ腕なのか！？──偽エンジニアを見抜けるか試してみた](https://codeiq.jp/magazine/2016/10/45639/)
