@@ -4,6 +4,7 @@
 - [モグラゲームス デジゲー博で見つけたおすすめ同人・インディゲーム12選](http://www.moguragames.com/entry/digigame-expo-report/)
 - Webページ作成
   - GitHub Pages, Atomエディター, HTML, CSS, Bootstrap
+- 作品に利用したリソースをエクセルにまとめる
 - ドットインストールでの独習-GitHubに作ったものを公開していく
 - 時間が余ったら、UnityのAndroidビルド
 
