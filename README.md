@@ -7,16 +7,6 @@
 - ドットインストールでの独習-GitHubに作ったものを公開していく
 - 時間が余ったら、UnityのAndroidビルド
 
-# 5回目
-1. Google翻訳の紹介
-1. [作品をGitHub Pagesで公開](http://am1tanaka.hatenablog.com/entry/2015/11/27/115926)
-  - GitHub Pages, Atomエディター, HTML, CSS, Bootstrap
-
-## 記事
-- [転職エージェントは、本当にスゴ腕なのか！？──偽エンジニアを見抜けるか試してみた](https://codeiq.jp/magazine/2016/10/45639/)
-- [AIについて](http://bylines.news.yahoo.co.jp/yuasamakoto/20161114-00064079/)
-
-
 # 今後の予定
 1. UnityでAndroid用のビルド
 1. クラス
@@ -38,6 +28,15 @@
 
 --------
 
+# 5回目
+1. Google翻訳の紹介
+1. [作品をGitHub Pagesで公開](http://am1tanaka.hatenablog.com/entry/2015/11/27/115926)
+  - GitHub Pages, Atomエディター, HTML, CSS, Bootstrap
+
+## 記事
+- [転職エージェントは、本当にスゴ腕なのか！？──偽エンジニアを見抜けるか試してみた](https://codeiq.jp/magazine/2016/10/45639/)
+- [AIについて](http://bylines.news.yahoo.co.jp/yuasamakoto/20161114-00064079/)
+
 
 # 4回目
 ## 迷路のUnityちゃんのカメラについて
@@ -46,8 +45,6 @@
 修正手順を[こちら](https://github.com/tanakaedu/dat161-aki/wiki/%E3%82%AB%E3%83%A1%E3%83%A9%E3%81%AE%E8%AA%BF%E6%95%B4)にまとめました。
 
 簡単なので、kadai-tempを使わず、現在作業しているものを修正した方がよさそうです。
-
-
 
 ## 仕上げ方針
 ### 迷路
