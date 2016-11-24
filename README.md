@@ -5,7 +5,7 @@
 - Webページ作成
   - GitHub Pages, Atomエディター, HTML, CSS, Bootstrap
 - ドットインストールでの独習-GitHubに作ったものを公開していく
-- 時間が余ったらUI
+- 時間が余ったら、UnityのAndroidビルド
 
 # 5回目
 1. Google翻訳の紹介
@@ -18,6 +18,7 @@
 
 
 # 今後の予定
+1. UnityでAndroid用のビルド
 1. クラス
 1. オブジェクト指向設計
 1. UI
