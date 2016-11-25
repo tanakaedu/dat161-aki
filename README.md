@@ -1,23 +1,26 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
-# 6回目
-## ネタ
-- [モグラゲームス デジゲー博で見つけたおすすめ同人・インディゲーム12選](http://www.moguragames.com/entry/digigame-expo-report/)
-- [競技プログラミング](http://programming-study.com/trouble/problem/)
-- [Mayaのチュートリアルビデオ](http://area.autodesk.jp/movie/maya-learning-channel/)
-
-## 講義-Webページ作成
-- GitHub Pages, Atomエディター, HTML
+# 便利リンク
   - [ドットインストール HTML入門](http://dotinstall.com/lessons/basic_html_v3)
   - [ドットインストール CSS入門](http://dotinstall.com/lessons/basic_css_v3)
 - CSS, Bootstrap
   - [ドットインストール Bootstrap 3.0入門](http://dotinstall.com/lessons/basic_twitter_bootstrap_v4)
   - [HTMLテンプレート](http://coliss.com/articles/build-websites/operation/work/free-html-templates-for-responsive-2016-autumn.html)
   - [ワイヤーフレーム例](http://coliss.com/articles/build-websites/operation/work/wireframes-and-prototypes-for-web-design.html)
+- [Mayaのチュートリアルビデオ](http://area.autodesk.jp/movie/maya-learning-channel/)
 
-## その他作業
+# 7回目
+## 紹介
+- [ブログ作成フレームワーク hexo](https://hexo.io/)
+  - マークダウンなどで簡単にブログページを作成して、HTMLを生成してくれるフレームワーク
+  - GitHub Pagesにアップすればブログが簡単に作れる
+  - nodeなどが必要なので、現在学校では使えない
+
+## 講義
 - 作品に利用したリソースをエクセルにまとめる
 - ドットインストールでの独習-GitHubに作ったものを公開していく
+
+## その他作業
 - 時間が余ったら、UnityのAndroidビルド
 
 # 今後の予定(1コマは開発。もう1コマは講義)
@@ -41,6 +44,21 @@
 1. 3Dデータの作り方
 
 --------
+
+# 6回目
+## ネタ
+- [モグラゲームス デジゲー博で見つけたおすすめ同人・インディゲーム12選](http://www.moguragames.com/entry/digigame-expo-report/)
+- [競技プログラミング](http://programming-study.com/trouble/problem/)
+- [Mayaのチュートリアルビデオ](http://area.autodesk.jp/movie/maya-learning-channel/)
+
+## 講義-Webページ作成
+- GitHub Pages, Atomエディター, HTML
+  - [ドットインストール HTML入門](http://dotinstall.com/lessons/basic_html_v3)
+  - [ドットインストール CSS入門](http://dotinstall.com/lessons/basic_css_v3)
+- CSS, Bootstrap
+  - [ドットインストール Bootstrap 3.0入門](http://dotinstall.com/lessons/basic_twitter_bootstrap_v4)
+  - [HTMLテンプレート](http://coliss.com/articles/build-websites/operation/work/free-html-templates-for-responsive-2016-autumn.html)
+  - [ワイヤーフレーム例](http://coliss.com/articles/build-websites/operation/work/wireframes-and-prototypes-for-web-design.html)
 
 # 5回目
 1. Google翻訳の紹介
