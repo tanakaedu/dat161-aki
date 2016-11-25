@@ -1,12 +1,11 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
 # 便利リンク
-  - [ドットインストール HTML入門](http://dotinstall.com/lessons/basic_html_v3)
-  - [ドットインストール CSS入門](http://dotinstall.com/lessons/basic_css_v3)
-- CSS, Bootstrap
-  - [ドットインストール Bootstrap 3.0入門](http://dotinstall.com/lessons/basic_twitter_bootstrap_v4)
-  - [HTMLテンプレート](http://coliss.com/articles/build-websites/operation/work/free-html-templates-for-responsive-2016-autumn.html)
-  - [ワイヤーフレーム例](http://coliss.com/articles/build-websites/operation/work/wireframes-and-prototypes-for-web-design.html)
+- [ドットインストール HTML入門](http://dotinstall.com/lessons/basic_html_v3)
+- [ドットインストール CSS入門](http://dotinstall.com/lessons/basic_css_v3)
+- [ドットインストール Bootstrap 3.0入門](http://dotinstall.com/lessons/basic_twitter_bootstrap_v4)
+- [HTMLテンプレート](http://coliss.com/articles/build-websites/operation/work/free-html-templates-for-responsive-2016-autumn.html)
+- [ワイヤーフレーム例](http://coliss.com/articles/build-websites/operation/work/wireframes-and-prototypes-for-web-design.html)
 - [Mayaのチュートリアルビデオ](http://area.autodesk.jp/movie/maya-learning-channel/)
 
 # 7回目
