@@ -1,9 +1,18 @@
 # デジタルアーツ東京　2016年度1年生用リポジトリ
 
 # 6回目
+## ネタ
 - [モグラゲームス デジゲー博で見つけたおすすめ同人・インディゲーム12選](http://www.moguragames.com/entry/digigame-expo-report/)
-- Webページ作成
-  - GitHub Pages, Atomエディター, HTML, CSS, Bootstrap
+- [競技プログラミング](http://programming-study.com/trouble/problem/)
+- [Mayaのチュートリアルビデオ](http://area.autodesk.jp/movie/maya-learning-channel/)
+
+## 講義-Webページ作成
+- GitHub Pages, Atomエディター, HTML
+- CSS, Bootstrap
+  - [HTMLテンプレート](http://coliss.com/articles/build-websites/operation/work/free-html-templates-for-responsive-2016-autumn.html)
+  - [ワイヤーフレーム例](http://coliss.com/articles/build-websites/operation/work/wireframes-and-prototypes-for-web-design.html)
+
+## その他作業
 - 作品に利用したリソースをエクセルにまとめる
 - ドットインストールでの独習-GitHubに作ったものを公開していく
 - 時間が余ったら、UnityのAndroidビルド
