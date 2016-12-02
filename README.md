@@ -7,6 +7,7 @@
 - [HTMLテンプレート](http://coliss.com/articles/build-websites/operation/work/free-html-templates-for-responsive-2016-autumn.html)
 - [ワイヤーフレーム例](http://coliss.com/articles/build-websites/operation/work/wireframes-and-prototypes-for-web-design.html)
 - [Mayaのチュートリアルビデオ](http://area.autodesk.jp/movie/maya-learning-channel/)
+- [ゲームに使えるフォント](http://alphawiki.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 8回目
 - ドットインストール マークダウンのチェック
