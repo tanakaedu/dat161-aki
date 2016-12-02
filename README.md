@@ -17,8 +17,31 @@
   - Unityにプロジェクトを読み込んで、8.以降を設定
   - ビルドをもう一度
 - スマートフォンの操作を実装する(マウスクリックで操作できるようにすればよい)
-  - ソフトゲームパッド
+  - 仮想ゲームパッド
     - http://qiita.com/cabbage/items/7836efaa04bbb037b086
+    - EventSystemが登録済みの場合は、新規の追加は不要
+    - 2dでは、左右反転に変なことをやっている(localScaleでひっくり返している)。これが原因で操作をすると縮むので、Flip.Xで反転させるようにする
+      - FixedUpdate()内の以下のコードを
+```
+            if (x != 0)
+            {
+                rigidbody2D.velocity = new Vector2(x * speed, rigidbody2D.velocity.y);
+                Vector2 temp = transform.localScale;
+                temp.x = x;
+                transform.localScale = temp;
+                anim.SetBool("dash", true);
+            }
+```
+      - 以下のように修正
+```
+            if (x != 0)
+            {
+                rigidbody2D.velocity = new Vector2(x * speed, rigidbody2D.velocity.y);
+                anim.SetBool("dash", true);
+				SpriteRenderer sp = GetComponent<SpriteRenderer> ();
+				sp.flipX = (x < 0);
+            }
+```
   - クリックした場所へ移動
 - HPに参照URLやライセンス情報を表示
   - AtomでマークダウンをHTML化(Markdown Previewer上で右クリックして、[Save as HTML]で保存する
