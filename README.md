@@ -8,20 +8,17 @@
 - [ワイヤーフレーム例](http://coliss.com/articles/build-websites/operation/work/wireframes-and-prototypes-for-web-design.html)
 - [Mayaのチュートリアルビデオ](http://area.autodesk.jp/movie/maya-learning-channel/)
 
-# 7回目
-## 紹介
-- [ブログ作成フレームワーク hexo](https://hexo.io/)
-  - マークダウンなどで簡単にブログページを作成して、HTMLを生成してくれるフレームワーク
-  - GitHub Pagesにアップすればブログが簡単に作れる
-  - nodeなどが必要なので、現在学校では使えない
-
-## 講義
-- 作品に利用したリソースをエクセルにまとめる
-- ドットインストールでの独習-GitHubに作ったものを公開していく
-
-## その他作業
-- 時間が余ったら、UnityのAndroidビルド
-  - [Unity5.3.4でAndroidアプリのビルド](http://am1tanaka.hatenablog.com/entry/2016/04/06/002345)
+# 8回目
+- ドットインストール マークダウンのチェック
+- リソースリストのチェック
+- Androidでの開発
+  - Android Studioの再設定
+  - ビルドをもう一度
+  - スマートフォンの操作を実装する
+    - クリックした場所へ移動
+    - ソフトゲームパッド
+- HPに参照URLやライセンス情報を表示
+  - AtomでマークダウンをHTML化(Markdown Previewer上で右クリックして、[Save as HTML]で保存する
 
 # 今後の予定(1コマは開発。もう1コマは講義)
 1. みんなで開発
@@ -44,6 +41,21 @@
 1. 3Dデータの作り方
 
 --------
+
+# 7回目
+## 紹介
+- [ブログ作成フレームワーク hexo](https://hexo.io/)
+  - マークダウンなどで簡単にブログページを作成して、HTMLを生成してくれるフレームワーク
+  - GitHub Pagesにアップすればブログが簡単に作れる
+  - nodeなどが必要なので、現在学校では使えない
+
+## 講義
+- 作品に利用したリソースをエクセルにまとめる
+- ドットインストールでの独習-GitHubに作ったものを公開していく
+
+## その他作業
+- 時間が余ったら、UnityのAndroidビルド
+  - [Unity5.3.4でAndroidアプリのビルド](http://am1tanaka.hatenablog.com/entry/2016/04/06/002345)
 
 # 6回目
 ## ネタ
