@@ -21,6 +21,7 @@
 
 ## その他作業
 - 時間が余ったら、UnityのAndroidビルド
+  - [Unity5.3.4でAndroidアプリのビルド](http://am1tanaka.hatenablog.com/entry/2016/04/06/002345)
 
 # 今後の予定(1コマは開発。もう1コマは講義)
 1. みんなで開発
