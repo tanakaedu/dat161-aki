@@ -12,6 +12,7 @@
 # 8回目
 - ドットインストール マークダウンのチェック
 - リソースリストのチェック
+- paiza learning に登録して実行(メールで登録して、GitHubアカウントと結びつけるとよい)
 - Androidでの開発
   - Androidの設定が完了しているPCと、していないPCがある。ローカルディスクCに[C:\Android\Sdk]フォルダーがあるPCがセットアップ済みのものなので、そのPCにAndroid端末を接続して、作業する
   - [これを右クリックして新しいタブで開く](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542#Unity%E3%81%A8Android-SDK%E3%81%AE%E8%A8%AD%E5%AE%9A)
