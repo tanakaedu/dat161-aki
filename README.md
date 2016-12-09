@@ -11,6 +11,7 @@
 
 # 9回目
 - Androidでの開発
+  - [Unity Cloud Buildの利用](https://github.com/tanakaedu/dat161-aki/wiki/Unity-Cloud-Build%E3%81%A7Android%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E3%83%93%E3%83%AB%E3%83%89)
   - Androidの設定が完了しているPCと、していないPCがある。ローカルディスクCに[C:\Android\Sdk]フォルダーがあるPCがセットアップ済みのものなので、そのPCにAndroid端末を接続して、作業する
   - [これを右クリックして新しいタブで開く](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542#Unity%E3%81%A8Android-SDK%E3%81%AE%E8%A8%AD%E5%AE%9A)
   - Unityにプロジェクトを読み込んで、8.以降を設定
