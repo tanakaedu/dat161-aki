@@ -11,14 +11,6 @@
 
 # 9回目
 - [ねとらぼ なぜアニメの放送は“落ちる”のか　放送が落ちる理由や待遇問題について現役アニメーター・制作進行に聞いた](http://nlab.itmedia.co.jp/nl/articles/1611/14/news066.html)
-- Androidでの開発
-  - [Unity Cloud Buildの利用](https://github.com/tanakaedu/dat161-aki/wiki/Unity-Cloud-Build%E3%81%A7Android%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E3%83%93%E3%83%AB%E3%83%89)
-    - これなら、PCへのAndroid環境のインストール不要
-    - ただし、無料ライセンスだと1時間に1回しかビルドできない。有料版でも30分に1回とかなので、頻繁にビルドすることは想定されていない。通常のテストはUnity Editor上で行い、ある程度まとまったところで実機ビルドをする
-  - Androidの設定が完了しているPCと、していないPCがある。ローカルディスクCに[C:\Android\Sdk]フォルダーがあるPCがセットアップ済みのものなので、そのPCにAndroid端末を接続して、作業する
-  - [これを右クリックして新しいタブで開く](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542#Unity%E3%81%A8Android-SDK%E3%81%AE%E8%A8%AD%E5%AE%9A)
-  - Unityにプロジェクトを読み込んで、8.以降を設定
-  - ビルドをもう一度
 - スマートフォンの操作を実装する(マウスクリックで操作できるようにすればよい)
   - 仮想ゲームパッド
     - http://qiita.com/cabbage/items/7836efaa04bbb037b086
@@ -48,6 +40,14 @@
             }
 ```
   - クリックした場所へ移動
+- Android用ビルド
+  - [Unity Cloud Buildの利用](https://github.com/tanakaedu/dat161-aki/wiki/Unity-Cloud-Build%E3%81%A7Android%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E3%83%93%E3%83%AB%E3%83%89)
+    - これなら、PCへのAndroid環境のインストール不要
+    - ただし、無料ライセンスだと1時間に1回しかビルドできない。有料版でも30分に1回とかなので、頻繁にビルドすることは想定されていない。通常のテストはUnity Editor上で行い、ある程度まとまったところで実機ビルドをする
+  - Androidの設定が完了しているPCと、していないPCがある。ローカルディスクCに[C:\Android\Sdk]フォルダーがあるPCがセットアップ済みのものなので、そのPCにAndroid端末を接続して、作業する
+  - [これを右クリックして新しいタブで開く](http://am1tanaka.hatenablog.com/entry/2016/04/05/230542#Unity%E3%81%A8Android-SDK%E3%81%AE%E8%A8%AD%E5%AE%9A)
+  - Unityにプロジェクトを読み込んで、8.以降を設定
+  - ビルドをもう一度
 - HPに参照URLやライセンス情報を表示
   - AtomでマークダウンをHTML化(Markdown Previewer上で右クリックして、[Save as HTML]で保存する
 
