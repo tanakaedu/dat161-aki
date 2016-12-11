@@ -10,6 +10,7 @@
 - [ゲームに使えるフォント](http://alphawiki.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
 # 9回目
+- [ねとらぼ なぜアニメの放送は“落ちる”のか　放送が落ちる理由や待遇問題について現役アニメーター・制作進行に聞いた](http://nlab.itmedia.co.jp/nl/articles/1611/14/news066.html)
 - Androidでの開発
   - [Unity Cloud Buildの利用](https://github.com/tanakaedu/dat161-aki/wiki/Unity-Cloud-Build%E3%81%A7Android%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%82%92%E3%83%93%E3%83%AB%E3%83%89)
     - これなら、PCへのAndroid環境のインストール不要
