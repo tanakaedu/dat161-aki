@@ -9,6 +9,34 @@
 - [Mayaのチュートリアルビデオ](http://area.autodesk.jp/movie/maya-learning-channel/)
 - [ゲームに使えるフォント](http://alphawiki.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
+# 10回目
+- 正月休みの課題の確認
+  - 学園祭の作品のリソースリスト
+  - paiza learningのランク
+  - 正月ミニ作品+リソースリスト
+
+# 今後の予定(1コマは開発。もう1コマは講義)
+1. みんなで開発
+  - 体験入学用プログラムの改造
+  - 対応ネットワークミニゲーム
+1. UnityでAndroid用のビルド
+1. クラス
+1. オブジェクト指向設計
+1. キャラクターのさまざまな移動方法
+1. UI
+1. パーティクル
+1. 物理シェーダーによるエフェクト
+1. シェーダースクリプト
+
+## 小ネタ(時間があれば)
+1. Unityちゃんの操作を改良(CharacterController)
+1. [Unity公式チュートリアル Space Shooterの作成手順](https://github.com/tanakaedu/SpaceShooterTutorial/wiki)
+1. 「ユニティちゃん2Dデータ」で、2Dグラフィックについて学ぶ
+1. 「ユニティちゃん2Dデータ」のデモを改造する
+1. 3Dデータの作り方
+
+--------
+
 # 9回目
 - [ねとらぼ なぜアニメの放送は“落ちる”のか　放送が落ちる理由や待遇問題について現役アニメーター・制作進行に聞いた](http://nlab.itmedia.co.jp/nl/articles/1611/14/news066.html)
 - スマートフォンの操作を実装する(マウスクリックで操作できるようにすればよい)
@@ -62,28 +90,6 @@
   - 利用した素材について、リソースリストのエクセルシートにまとめる
   - [Unity Asset Store](https://www.assetstore.unity3d.com/jp/)など、積極的に利用する
   - JOKER SCRIPTでもよい
-
-# 今後の予定(1コマは開発。もう1コマは講義)
-1. みんなで開発
-  - 体験入学用プログラムの改造
-  - 対応ネットワークミニゲーム
-1. UnityでAndroid用のビルド
-1. クラス
-1. オブジェクト指向設計
-1. キャラクターのさまざまな移動方法
-1. UI
-1. パーティクル
-1. 物理シェーダーによるエフェクト
-1. シェーダースクリプト
-
-## 小ネタ(時間があれば)
-1. Unityちゃんの操作を改良(CharacterController)
-1. [Unity公式チュートリアル Space Shooterの作成手順](https://github.com/tanakaedu/SpaceShooterTutorial/wiki)
-1. 「ユニティちゃん2Dデータ」で、2Dグラフィックについて学ぶ
-1. 「ユニティちゃん2Dデータ」のデモを改造する
-1. 3Dデータの作り方
-
---------
 
 # 8回目
 - 話題
