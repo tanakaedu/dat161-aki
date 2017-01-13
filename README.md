@@ -9,6 +9,13 @@
 - [Mayaのチュートリアルビデオ](http://area.autodesk.jp/movie/maya-learning-channel/)
 - [ゲームに使えるフォント](http://alphawiki.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 
+# 11回目
+- 正月休みの課題の確認(未発表者の)
+- 作成作品を、GitHub Pagesで公開
+- クラス、オブジェクトの勉強
+- VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)
+- paiza learningチャレンジ(動画のプログラミング練習で準備してから、スキルチェックにチャレンジ)
+
 # 10回目
 - [Global Game Jam JAPAN ゲーム開発を行うハッカソン](http://ggj.igda.jp/)
 - [paiza開発日誌 面接官「『世界を変えたい』とか言ってくるエンジニアは落とします」その理由とは](http://paiza.hatenablog.com/entry/2016/12/28/%E9%9D%A2%E6%8E%A5%E5%AE%98%E3%80%8C%E3%80%8E%E4%B8%96%E7%95%8C%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%80%8F%E3%81%A8%E3%81%8B%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8B%E3%82%A8%E3%83%B3)
@@ -25,6 +32,7 @@
   - 対応ネットワークミニゲーム
 1. クラス
 1. オブジェクト指向設計
+1. アニメーションの作り方
 1. キャラクターのさまざまな移動方法
 1. UI
 1. パーティクル
