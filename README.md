@@ -14,8 +14,8 @@
 - 正月休みの課題の確認(未発表者の)
 - 作成作品を、GitHub Pagesで公開
 - クラス、オブジェクトの勉強
-- VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)
 - paiza learningチャレンジ(動画のプログラミング練習で準備してから、スキルチェックにチャレンジ)
+- (VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)これは拡張パックのインストールが必要なので来週)
 
 # 10回目
 - [Global Game Jam JAPAN ゲーム開発を行うハッカソン](http://ggj.igda.jp/)
