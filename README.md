@@ -12,7 +12,7 @@
 
 # 11回目
 - UIの続き(キャラクターごとにUIを表示する)
-  - https://github.com/tanakaedu/dat161-aki/wiki/Unity%E3%81%AEUI
+  - [UnityのUI](https://github.com/tanakaedu/dat161-aki/wiki/Unity%E3%81%AEUI)
 - 正月休みの課題の確認(未発表者)
 - 作成作品を、GitHub Pagesで公開
 - paiza スキルチェック対策
