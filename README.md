@@ -11,9 +11,11 @@
 - [Unity Ads / Unity作品に広告を載せる](http://unityads.jp/)
 
 # 11回目
+- UIの続き(キャラクターごとにUIを表示する)
+  - https://github.com/tanakaedu/dat161-aki/wiki/Unity%E3%81%AEUI
 - 正月休みの課題の確認(未発表者)
 - 作成作品を、GitHub Pagesで公開
-- UIの続き(キャラクターごとにUIを表示する)
+- paiza スキルチェック対策
 - paiza learningチャレンジ(動画のプログラミング練習で準備してから、スキルチェックにチャレンジ)
 - Unityの様々なエフェクトを試す
 - (VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)これは拡張パックのインストールが必要なので来週)
