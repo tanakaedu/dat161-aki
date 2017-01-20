@@ -10,15 +10,17 @@
 - [ゲームに使えるフォント](http://alphawiki.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 - [Unity Ads / Unity作品に広告を載せる](http://unityads.jp/)
 
+# 12回目
+- 作成作品を、GitHub Pagesで公開(WebGLビルドまで完了。必要なファイルをアップロードして、README.mdを編集する)
+- paiza スキルチェック対策
+- paiza learningチャレンジ(動画のプログラミング練習で準備してから、スキルチェックにチャレンジ)
+- VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)
+
 # 11回目
 - UIの続き(キャラクターごとにUIを表示する)
   - [UnityのUI](https://github.com/tanakaedu/dat161-aki/wiki/Unity%E3%81%AEUI)
 - 正月休みの課題の確認(未発表者)
-- 作成作品を、GitHub Pagesで公開
-- paiza スキルチェック対策
-- paiza learningチャレンジ(動画のプログラミング練習で準備してから、スキルチェックにチャレンジ)
 - Unityの様々なエフェクトを試す
-- (VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)これは拡張パックのインストールが必要なので来週)
 
 # 10回目
 - [Global Game Jam JAPAN ゲーム開発を行うハッカソン](http://ggj.igda.jp/)
