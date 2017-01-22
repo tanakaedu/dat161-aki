@@ -11,11 +11,19 @@
 - [Unity Ads / Unity作品に広告を載せる](http://unityads.jp/)
 
 # 12回目
+- VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)
+  - [VirtualBoxにUbuntuを読み込む](http://am1tanaka.hatenablog.com/entry/2017/01/09/001029#vboxファイルがある場合のUbuntuのインストール)
+  - [VirtualBox内のUbuntuの画面サイズを調整](http://am1tanaka.hatenablog.com/entry/2017/01/22/205224)
+  - [Hexoのセットアップ](http://am1tanaka.hatenablog.com/entry/2017/01/23/011105)
 - 作成作品を、GitHub Pagesで公開(WebGLビルドまで完了。必要なファイルをアップロードして、README.mdを編集する)
   - [作品をGitHub Pagesで公開](https://github.com/tanakaedu/dat161-aki/wiki/%E4%BD%9C%E5%93%81%E3%82%92GitHub%E3%81%A7%E5%85%AC%E9%96%8B)
 - paiza スキルチェック対策
 - paiza learningチャレンジ(動画のプログラミング練習で準備してから、スキルチェックにチャレンジ)
-- VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)
+- みんなで開発 Unityちゃん+ネットワーク
+  - 改良のテーマ
+    - マジックボールはUnityちゃんの世界観に合わない
+    - 敵、アイテム、障害物などを考える
+    - プレイヤーキャラクターの種類を増やす
 
 # 11回目
 - UIの続き(キャラクターごとにUIを表示する)
