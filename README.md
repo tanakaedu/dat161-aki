@@ -11,6 +11,10 @@
 - [Unity Ads / Unity作品に広告を載せる](http://unityads.jp/)
 - [paiza開発日誌 初心者でもOK！レベル別・アルゴリズムをすぐに学べる書籍とサイト12選](http://paiza.hatenablog.com/entry/2017/01/24/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%A7%E3%82%82OK%EF%BC%81%E3%83%AC%E3%83%99%E3%83%AB%E5%88%A5%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%92%E3%81%99%E3%81%90%E3%81%AB%E5%AD%A6)
 
+# 13回目
+- paiza.jp の動画学習のアルゴリズムで、ハノイの塔を勉強する
+- paiza.jp の動画学習のプログラミング練習問題で、Aのハノイの塔をクリアする
+
 # 12回目
 - VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)
   - [VirtualBoxにUbuntuを読み込む](http://am1tanaka.hatenablog.com/entry/2017/01/09/001029#vboxファイルがある場合のUbuntuのインストール)
