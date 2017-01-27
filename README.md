@@ -14,7 +14,15 @@
 # 13回目
 - ブログツール Jekyll続き
   - 以下で、GitHub Pagesで公開できる
-  - Jekyll のプロジェクトを GitHub のリポジトリーの master ブランチにプッシュ
+  - Ubuntu を起動
+  - 端末を起動して、 `cd /mnt/ubuntu-share` で共有フォルダーに移動
+  - `jekyll new jekyll-github-test` などで、共有フォルダーに jekyll のブログプロジェクトを作成
+  - Windows GitHub Desktop を起動
+  - [Add]で、 ドキュメント>Ubuntu1604>ubuntu-share フォルダーを選択
+  - [create repository]のリンクをクリック
+  - [Ignore Setting]を[Jekyll]にする
+  - [Changes]をクリックして、Summalyに何か入力して、Commit masterして、 Publish。Descriptionに何か入力してプッシュを完了させる
+  - Webブラウザーで、作成したGitHubのリポジトリーを開く
   - GitHub のリポジトリーの setting で、 GitHub Pages を master ブランチで設定
   - 以降、変更して、 GitHub Desktop で Sync する。10秒程度したら、 GitHub　Pages　に反映される
   - 最初に Ubuntu　でブログプロジェクトを作成したら、それ以降は Windows で作業可能
