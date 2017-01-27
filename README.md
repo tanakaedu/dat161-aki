@@ -26,6 +26,8 @@
   - GitHub のリポジトリーの setting で、 GitHub Pages を master ブランチで設定
   - 以降、変更して、 GitHub Desktop で Sync する。10秒程度したら、 GitHub　Pages　に反映される
   - 最初に Ubuntu　でブログプロジェクトを作成したら、それ以降は Windows で作業可能
+- Jekyll　での画像表示方法
+- Jekyll でのUnityプロジェクトの公開方法
 - paiza.jp の動画学習のアルゴリズムで、ハノイの塔を勉強する
 - paiza.jp の動画学習のプログラミング練習問題で、Aのハノイの塔をクリアする
 
