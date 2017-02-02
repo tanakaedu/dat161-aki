@@ -16,6 +16,7 @@
 - GitHub Pagesにテーマを導入する
   - http://am1tanaka.hatenablog.com/entry/2017/02/01/221953
 - みんなで開発するためのGitHubの練習
+  - http://am1tanaka.hatenablog.com/entry/2017/02/03/003015
 - あとで見ておいて欲しいやつ → アルゴリズムの紹介
 - paiza.jp の動画学習のアルゴリズムで、ハノイの塔を勉強する
 - paiza.jp の動画学習のプログラミング練習問題で、Aのハノイの塔をクリアする
