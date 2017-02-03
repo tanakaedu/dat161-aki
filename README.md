@@ -21,6 +21,12 @@
 - paiza.jp の動画学習のアルゴリズムで、ハノイの塔を勉強する
 - paiza.jp の動画学習のプログラミング練習問題で、Aのハノイの塔をクリアする
 
+
+# 14回目
+- みんなで開発(Unityちゃんネットワーク)
+- オブジェクト指向設計
+
+
 # 12回目
 - VirtualBoxのセットアップ(Ubuntuの設定、hexoの動作)
   - [VirtualBoxにUbuntuを読み込む](http://am1tanaka.hatenablog.com/entry/2017/01/09/001029#vboxファイルがある場合のUbuntuのインストール)
