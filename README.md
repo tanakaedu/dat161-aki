@@ -11,18 +11,28 @@
 - [Unity Ads / Unity作品に広告を載せる](http://unityads.jp/)
 - [paiza開発日誌 初心者でもOK！レベル別・アルゴリズムをすぐに学べる書籍とサイト12選](http://paiza.hatenablog.com/entry/2017/01/24/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%A7%E3%82%82OK%EF%BC%81%E3%83%AC%E3%83%99%E3%83%AB%E5%88%A5%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%92%E3%81%99%E3%81%90%E3%81%AB%E5%AD%A6)
 - [Unityとメタセコイヤを同期させるプラグイン](https://github.com/unity3d-jp/MeshSync)
+- [ゲームで学ぶJavaScript入門 HTML5&CSSも身に付く!   田中 賢一郎](https://www.amazon.co.jp/dp/4844339788/ref=cm_sw_r_tw_dp_x_kWfNyb1H0ZS0S)
 
 # 14回目
+## 話題
+- paiza が新しくなって、キャンペーン中
+
 ## 前回からの報告
 - 作品ページの公開URLをwikiに書き込む
 - yoketoru unity 2016 について、プルリクエストを送信
   - できた人は、作成した内容を解説
   - できていない人は、どのように考えているのか、わからないところがどこかを発表して、みんなの意見を募る
+
+## 演習
 - リポジトリー管理者の練習
   - http://am1tanaka.hatenablog.com/entry/2017/02/05/000459
+- オブジェクト指向設計
+  - https://github.com/tanakaedu/object-practice-2016
+- JavaScriptでゲーム開発
+  - enchant.js
+  - [ゲームで学ぶJavaScript入門 HTML5&CSSも身に付く!   田中 賢一郎](https://www.amazon.co.jp/dp/4844339788/ref=cm_sw_r_tw_dp_x_kWfNyb1H0ZS0S)
 
 ## 時間があれば
-- オブジェクト指向設計
 - みんなで開発2 Unityちゃんネットワークの改良点を挙げる
 
 # 15回目(未定)
