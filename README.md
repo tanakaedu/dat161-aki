@@ -29,7 +29,7 @@
 - オブジェクト指向設計
   - https://github.com/tanakaedu/object-practice-2016
 - JavaScriptでゲーム開発
-  - enchant.js
+  - [enchant.js](http://enchantjs.com/ja/)
   - [ゲームで学ぶJavaScript入門 HTML5&CSSも身に付く!   田中 賢一郎](https://www.amazon.co.jp/dp/4844339788/ref=cm_sw_r_tw_dp_x_kWfNyb1H0ZS0S)
 
 ## 時間があれば
