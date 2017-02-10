@@ -27,7 +27,7 @@
 - リポジトリー管理者の練習
   - http://am1tanaka.hatenablog.com/entry/2017/02/05/000459
 - オブジェクト指向設計
-  - https://github.com/tanakaedu/dat161-aki/blob/master/020_%E3%82%AF%E3%83%A9%E3%82%B9%E6%BC%94%E7%BF%92.pdf
+  - [ドキュメント](https://github.com/tanakaedu/dat161-aki/blob/master/020_%E3%82%AF%E3%83%A9%E3%82%B9%E6%BC%94%E7%BF%92.pdf)
   - https://github.com/tanakaedu/object-practice-2016
 - JavaScriptでゲーム開発
   - [enchant.js](http://enchantjs.com/ja/)
