@@ -28,14 +28,14 @@
 - リポジトリー管理者の練習
   - http://am1tanaka.hatenablog.com/entry/2017/02/05/000459
   - プルリクエスト練習
-- furukawasyunngo     http://githut.com/165b012
-- cat4937     http://githut.com/GEhikachu
-- sugiyama1919     http://githut.com/haiperionhamuteki
-- GEhikachu     http://githut.com/nitrx
-- haiperionhamuteki     http://githut.com/khtaaa
-- nitrx     http://githut.com/sugiyama1919
-- khtaaa     http://githut.com/furukawasyunngo
-- 165b012     http://githut.com/cat4937
+- furukawasyunngo     http://github.com/165b012
+- cat4937     http://github.com/GEhikachu
+- sugiyama1919     http://github.com/haiperionhamuteki
+- GEhikachu     http://github.com/nitrx
+- haiperionhamuteki     http://github.com/khtaaa
+- nitrx     http://github.com/sugiyama1919
+- khtaaa     http://github.com/furukawasyunngo
+- 165b012     http://github.com/cat4937
 
 
 - オブジェクト指向設計
