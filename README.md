@@ -27,6 +27,17 @@
 ## 演習
 - リポジトリー管理者の練習
   - http://am1tanaka.hatenablog.com/entry/2017/02/05/000459
+  - プルリクエスト練習
+- furukawasyunngo     http://githut.com/165b012
+- cat4937     http://githut.com/GEhikachu
+- sugiyama1919     http://githut.com/haiperionhamuteki
+- GEhikachu     http://githut.com/nitrx
+- haiperionhamuteki     http://githut.com/khtaaa
+- nitrx     http://githut.com/sugiyama1919
+- khtaaa     http://githut.com/furukawasyunngo
+- 165b012     http://githut.com/cat4937
+
+
 - オブジェクト指向設計
   - [ドキュメント](https://github.com/tanakaedu/dat161-aki/blob/master/020_%E3%82%AF%E3%83%A9%E3%82%B9%E6%BC%94%E7%BF%92.pdf)
   - https://github.com/tanakaedu/object-practice-2016
