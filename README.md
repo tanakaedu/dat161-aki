@@ -23,6 +23,10 @@
 - 割り振られたアルゴリズムについて、休み明けに発表できるように準備する
 - みんなで開発課題を開始。GitHub上で開発を進める
 
+- JavaScriptでゲーム開発
+  - [enchant.js](http://enchantjs.com/ja/)
+  - [ゲームで学ぶJavaScript入門 HTML5&CSSも身に付く!   田中 賢一郎](https://www.amazon.co.jp/dp/4844339788/ref=cm_sw_r_tw_dp_x_kWfNyb1H0ZS0S)
+
 # 14回目
 ## 話題
 - paiza が新しくなって、キャンペーン中
@@ -51,12 +55,6 @@
 - オブジェクト指向設計
   - [ドキュメント](https://github.com/tanakaedu/dat161-aki/blob/master/020_%E3%82%AF%E3%83%A9%E3%82%B9%E6%BC%94%E7%BF%92.pdf)
   - https://github.com/tanakaedu/object-practice-2016
-- JavaScriptでゲーム開発
-  - [enchant.js](http://enchantjs.com/ja/)
-  - [ゲームで学ぶJavaScript入門 HTML5&CSSも身に付く!   田中 賢一郎](https://www.amazon.co.jp/dp/4844339788/ref=cm_sw_r_tw_dp_x_kWfNyb1H0ZS0S)
-
-## 時間があれば
-- グループを作成して、共同企画の立ち上げ(GitHubでの開発練習)
 
 # 13回目
 - GitHub Pagesにテーマを導入する
