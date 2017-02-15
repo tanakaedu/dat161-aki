@@ -12,22 +12,23 @@
 - [paiza開発日誌 初心者でもOK！レベル別・アルゴリズムをすぐに学べる書籍とサイト12選](http://paiza.hatenablog.com/entry/2017/01/24/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%A7%E3%82%82OK%EF%BC%81%E3%83%AC%E3%83%99%E3%83%AB%E5%88%A5%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%92%E3%81%99%E3%81%90%E3%81%AB%E5%AD%A6)
 - [Unityとメタセコイヤを同期させるプラグイン](https://github.com/unity3d-jp/MeshSync)
 - [ゲームで学ぶJavaScript入門 HTML5&CSSも身に付く!   田中 賢一郎](https://www.amazon.co.jp/dp/4844339788/ref=cm_sw_r_tw_dp_x_kWfNyb1H0ZS0S)
+- [enchant.js](http://enchantjs.com/ja/)
 
 # 15回目
 - オブジェクト指向設計(続き)
   - オブジェクト未使用プロジェクトのクローンと実行まで完了
 - 開発作業開始
-  - 正月休みの作品の続きでもよい
+  - プロジェクトをパブリッシュする
+  - https://github.com/khtaaa/suraime2d
+  - https://github.com/165b012/3Daction
+  - https://github.com/furukawasyunngo/MatoateGame
 - paiza スキルチェック C or D　チャレンジ
 
-## 春休み課題(未定)
+## 春休み課題
 - paizaのスキルをCに上げる
-- 割り振られたアルゴリズムについて、休み明けに発表できるように準備する
 - みんなで開発課題を開始。GitHub上で開発を進める
 
-- JavaScriptでゲーム開発
-  - [enchant.js](http://enchantjs.com/ja/)
-  - [ゲームで学ぶJavaScript入門 HTML5&CSSも身に付く!   田中 賢一郎](https://www.amazon.co.jp/dp/4844339788/ref=cm_sw_r_tw_dp_x_kWfNyb1H0ZS0S)
+---
 
 # 14回目
 ## 話題
