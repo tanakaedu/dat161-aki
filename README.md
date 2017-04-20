@@ -24,7 +24,7 @@
 - 開発作業開始
   - プロジェクトをパブリッシュする
   - リソースリストのエクセルを含める
-  - https://github.com/khtaaa/suraime2d
+  - https://github.com/khtaaa/batle-simulation
   - https://github.com/165b012/3Daction
   - https://github.com/furukawasyunngo/MatoateGame
 - paiza スキルチェック C or D　チャレンジ
